@@ -9,6 +9,8 @@ package fundamentos;
  *
  */
 
+
+
 public class Comentario {
 	/**
 	 * Essa método pe a porta de entrada de um programa Java
