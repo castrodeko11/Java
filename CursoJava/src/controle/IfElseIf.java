@@ -22,7 +22,7 @@ public class IfElseIf {
 		} else {
 			System.out.println("Reprovado");
 		}
-
+		read.close();
 	}
 
 }
