@@ -1,6 +1,13 @@
-package exercicios;
+package fundamentosExercicios;
 
 import java.util.Scanner;
+
+/**
+ * 
+ * @author André Oliveira
+ * 3. Criar um programa que leia o peso e a altura do usuário e imprima no console o IMC.
+ *
+ */
 
 public class Ex3 {
 	public static void main(String[] args) {

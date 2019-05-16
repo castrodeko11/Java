@@ -1,6 +1,14 @@
-package exercicios;
+package fundamentosExercicios;
 
 import java.util.Scanner;
+
+/**
+ * 
+ * @author André Oliveira
+ * 5. Criar um programa que leia o valor da base e da altura de um triângulo e calcule a área.
+ * 
+ *
+ */
 
 public class Ex5 {
 	public static void main(String[] args) {

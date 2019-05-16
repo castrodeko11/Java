@@ -1,6 +1,14 @@
-package exercicios;
+package fundamentosExercicios;
 
 import java.util.Scanner;
+
+/**
+ * 
+ * @author André Oliveira
+ * 4. Criar um programa que leia um valor e
+ * apresente os resultados ao quadrado e ao cubo do valor.
+ *
+ */
 
 public class Ex4 {
 	public static void main(String[] args) {
