@@ -1,0 +1,21 @@
+package classe2;
+
+public class Funcionario {
+	String nome;
+	double salario;
+	String funcao;
+
+	// Construtor
+	Funcionario(String n, double s, String f) {
+		nome = n;
+		salario = s;
+		funcao = f;
+	}
+
+	// Método
+
+	String formatarFuncionario() {
+		return String.format("%d/%d/%d", nome, salario, funcao);
+	}
+
+}

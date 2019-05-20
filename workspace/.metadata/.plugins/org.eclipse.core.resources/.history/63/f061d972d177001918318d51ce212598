@@ -1,0 +1,26 @@
+package controleExercicios;
+
+import java.awt.List;
+import java.util.Scanner;
+
+public class Ex08 {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		String l;
+		
+		List palavras;
+		
+		System.out.printf("Digite uma palabra: ");
+		l = scanner.nextLine();
+		
+		for (int i =0; l.length()>i; i++) {
+			
+			
+			System.out.println(i);
+					
+			
+		}
+		
+	}
+
+}

@@ -1,0 +1,29 @@
+package controleExercicios;
+
+import java.util.Scanner;
+
+public class Ex03 {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		float n1, n2, media;
+		
+		System.out.println("Digite a primeira nota: ");
+		n1 = scanner.nextFloat();
+		
+		System.out.println("Digite a segunda nota: ");
+		n2 = scanner.nextFloat();
+		
+		media = n1+n2/2
+				
+		if(media >=7) {
+			System.out.println("Aprovado");
+		}else if (media > 4 && media <7) {
+			System.out.println("Recuperação");
+					}else {
+						System.out.println("Reprovado");
+					}
+		
+
+		
+	}
+}

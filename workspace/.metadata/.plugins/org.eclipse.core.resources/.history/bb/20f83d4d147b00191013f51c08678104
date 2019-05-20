@@ -1,0 +1,23 @@
+package classe2;
+
+public class Funcionario {
+	String nome;
+//	double salario;
+	String funcao;
+	
+	// Construtor
+	
+	Funcionario(String n, String f) {
+		nome = n;
+//		salario = s;
+		funcao = f;
+	}
+
+	// Método
+	
+	String formatarf() {
+		return String.format("%n",nome);
+	}
+	
+	
+}

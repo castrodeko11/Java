@@ -1,0 +1,12 @@
+package classe;
+
+public class Desafio {
+	int a = 2;
+	
+	public void main(String[] args) {
+		
+		System.out.println(a);
+		
+	}
+
+}

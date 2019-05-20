@@ -1,0 +1,17 @@
+package classe;
+
+public class Produto {
+	String nome;
+	double preco;
+	double desconto;
+
+	Produto() {
+
+	}
+	
+	Produto (String nome, double preco, double desconto){
+		this.nome
+		
+	}
+
+}

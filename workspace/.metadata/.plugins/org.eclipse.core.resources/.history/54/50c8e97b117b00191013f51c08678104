@@ -1,0 +1,17 @@
+package classe2;
+
+public class FuncionarioTeste {
+	public static void main(String[] args) {
+
+		Funcionario estag = new Funcionario("André Oliveira",5000.00,"Sistemas");
+//		estag.nome = "Leandro Garcia";
+//		estag.salario = 2500.00;
+//		estag.funcao = "Dev";
+
+//		System.out.println("Informações Funcionário: \n" + estag.nome + "\n" + estag.salario + "\n" + estag.funcao);
+		
+		System.out.println(estag.formatarFuncionario());
+
+	}
+
+}

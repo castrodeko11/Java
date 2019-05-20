@@ -1,0 +1,12 @@
+package classe;
+
+public class Produto {
+	String Nome;
+	double preco;
+	double desconto;
+
+	Produto() {
+
+	}
+
+}

@@ -1,0 +1,13 @@
+package classe;
+
+public class ProdutoTeste {
+	public static void main(String[] args) {
+		Produto produto1 = new Produto();
+		produto1.nome = "Notebook Acer 15' 8GB" ;
+		produto1.preco = 2300;
+		produto1.desconto = 0.15
+		
+	}
+
+
+}

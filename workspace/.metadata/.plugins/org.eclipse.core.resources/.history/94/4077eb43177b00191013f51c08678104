@@ -1,0 +1,9 @@
+package classe;
+
+public class Calculadora {
+	
+	double resultado;
+	
+	double somar (double a, doubleb)
+
+}
