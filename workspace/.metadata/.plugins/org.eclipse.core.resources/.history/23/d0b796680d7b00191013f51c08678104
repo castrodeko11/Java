@@ -1,8 +1,0 @@
-package classe2;
-
-public class FuncionarioTeste {
-	public static void main(String[] args) {
-		
-	}
-
-}

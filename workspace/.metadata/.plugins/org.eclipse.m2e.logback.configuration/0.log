@@ -1033,3 +1033,353 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact stax:stax-api
 2019-05-24 15:36:02,001 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-05-24 15:36:02,002 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
 2019-05-24 15:51:54,527 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-05-27 08:57:11,995 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-05-27 08:59:35,576 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 08:59:35,580 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-27 08:59:35,591 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 08:59:35,593 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-27 09:37:37,483 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-05-27 10:29:48,335 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:29:48,338 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-27 10:29:48,341 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:29:48,343 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-27 10:30:01,417 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:30:01,418 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-27 10:30:01,420 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:30:01,421 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-27 10:30:25,103 [Worker-29: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:30:25,104 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-27 10:30:25,107 [Worker-29: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:30:25,108 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-27 10:30:36,215 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:30:36,217 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-27 10:30:36,219 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:30:36,220 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-27 10:36:13,445 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:36:13,446 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-27 10:36:13,448 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:36:13,449 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-27 10:37:49,755 [Worker-29: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:37:49,756 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-27 10:37:49,759 [Worker-29: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:37:49,761 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-27 10:38:41,110 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:38:41,111 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-27 10:38:41,113 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:38:41,114 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-27 10:43:29,490 [Worker-33: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:43:29,492 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-27 10:43:29,498 [Worker-33: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:43:29,499 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-27 10:45:48,984 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:45:48,986 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-27 10:45:48,988 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:45:48,989 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-27 10:48:21,996 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:48:21,997 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-27 10:48:22,000 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:48:22,002 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-27 10:49:31,737 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:49:31,738 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-27 10:49:31,741 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:49:31,742 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-27 10:55:50,621 [Worker-37: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:55:50,622 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-27 10:55:50,624 [Worker-37: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:55:50,625 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-27 10:56:06,243 [Worker-37: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:56:06,244 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-27 10:56:06,247 [Worker-37: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:56:06,248 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-27 10:56:26,287 [Worker-39: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:56:26,288 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-27 10:56:26,290 [Worker-39: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:56:26,291 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-27 10:56:32,378 [Worker-32: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:56:32,379 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-27 10:56:32,381 [Worker-32: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:56:32,382 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-27 10:56:52,543 [Worker-38: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:56:52,544 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-27 10:56:52,548 [Worker-38: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-27 10:56:52,549 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-27 14:11:31,077 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-05-28 11:25:57,682 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-05-28 15:06:54,701 [Worker-41: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:06:54,703 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-28 15:06:54,740 [Worker-41: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:06:54,741 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-28 15:07:33,762 [Worker-41: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:07:33,763 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-28 15:07:33,766 [Worker-41: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:07:33,767 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-28 15:07:38,543 [Worker-44: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:07:38,545 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-28 15:07:38,547 [Worker-44: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:07:38,548 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-28 15:08:35,818 [Worker-45: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:08:35,819 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-28 15:08:35,821 [Worker-45: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:08:35,822 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-28 15:10:03,068 [Worker-45: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:10:03,068 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-28 15:10:03,068 [Worker-45: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:10:03,068 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-28 15:11:40,779 [Worker-42: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:11:40,780 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-28 15:11:40,782 [Worker-42: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:11:40,783 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-28 15:14:53,951 [Worker-45: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:14:53,952 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-28 15:14:53,955 [Worker-45: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:14:53,956 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-28 15:16:00,324 [Worker-45: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:16:00,325 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-28 15:16:00,329 [Worker-45: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:16:00,330 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-28 15:18:26,268 [Worker-42: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:18:26,269 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-28 15:18:26,271 [Worker-42: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:18:26,272 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-28 15:19:19,311 [Worker-46: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:19:19,312 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-28 15:19:19,314 [Worker-46: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:19:19,315 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-28 15:23:21,420 [Worker-42: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:23:21,421 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-28 15:23:21,424 [Worker-42: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:23:21,426 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-28 15:25:14,446 [Worker-41: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:25:14,447 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-28 15:25:14,448 [Worker-41: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:25:14,449 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-28 15:27:08,394 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:27:08,395 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-28 15:27:08,397 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:27:08,398 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-28 15:27:26,936 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:27:26,938 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-28 15:27:26,940 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:27:26,941 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-28 15:28:59,584 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:28:59,587 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-28 15:28:59,588 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:28:59,589 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-28 15:29:50,848 [Worker-45: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:29:50,849 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-28 15:29:50,852 [Worker-45: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:29:50,853 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-28 15:37:29,018 [Worker-52: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:37:29,018 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-28 15:37:29,033 [Worker-52: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:37:29,033 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-28 15:49:12,877 [Worker-56: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:49:12,877 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-28 15:49:12,877 [Worker-56: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-28 15:49:12,893 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-29 08:34:36,833 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-05-29 09:22:20,313 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 09:22:20,314 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-29 09:22:20,318 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 09:22:20,319 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-29 10:59:06,646 [Worker-32: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 10:59:06,646 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-29 10:59:06,661 [Worker-32: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 10:59:06,661 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-29 10:59:24,390 [Worker-32: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 10:59:24,390 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-29 10:59:24,390 [Worker-32: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 10:59:24,390 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-29 11:05:22,036 [Worker-34: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 11:05:22,036 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-29 11:05:22,036 [Worker-34: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 11:05:22,036 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-29 11:06:02,971 [Worker-34: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 11:06:02,971 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-29 11:06:02,971 [Worker-34: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 11:06:02,971 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-29 11:15:24,578 [Worker-35: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 11:15:24,578 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-29 11:15:24,578 [Worker-35: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 11:15:24,578 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-29 11:22:39,698 [Worker-38: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 11:22:39,698 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-29 11:22:39,698 [Worker-38: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 11:22:39,698 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-29 11:23:10,184 [Worker-39: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 11:23:10,184 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-29 11:23:10,184 [Worker-39: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 11:23:10,184 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-29 11:23:49,232 [Worker-42: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 11:23:49,232 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-29 11:23:49,247 [Worker-42: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 11:23:49,249 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-29 11:23:53,584 [Worker-39: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 11:23:53,599 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-29 11:23:53,599 [Worker-39: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 11:23:53,599 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-29 11:24:55,353 [Worker-41: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 11:24:55,353 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-29 11:24:55,353 [Worker-41: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 11:24:55,353 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-29 11:25:00,678 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 11:25:00,678 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-29 11:25:00,678 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 11:25:00,678 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-29 11:30:14,262 [Worker-43: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 11:30:14,262 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-29 11:30:14,262 [Worker-43: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 11:30:14,262 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-29 13:25:12,865 [Worker-57: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 13:25:12,866 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-29 13:25:12,868 [Worker-57: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 13:25:12,870 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-29 13:26:07,888 [Worker-59: Launching GeradorLn] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 13:26:07,889 [Worker-59: Launching GeradorLn] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-29 13:26:07,891 [Worker-59: Launching GeradorLn] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 13:26:07,892 [Worker-59: Launching GeradorLn] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-29 13:28:00,025 [Worker-56: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 13:28:00,026 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-29 13:28:00,029 [Worker-56: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 13:28:00,030 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-29 13:48:56,283 [Worker-63: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 13:48:56,284 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-29 13:48:56,285 [Worker-63: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 13:48:56,287 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-29 13:49:14,597 [Worker-75: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 13:49:14,598 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-29 13:49:14,600 [Worker-75: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 13:49:14,602 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-29 13:49:53,077 [Worker-68: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 13:49:53,079 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-29 13:49:53,080 [Worker-68: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 13:49:53,081 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-29 14:02:00,395 [Worker-78: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 14:02:00,396 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-05-29 14:02:00,398 [Worker-78: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-29 14:02:00,399 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-05-30 09:32:07,801 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-05-30 10:03:33,350 [Worker-19: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.promonlogicalis:helius:1.0.0 @ C:\Users\re91528z\Raspta Tela\helius-master\helius-master\pom.xml.
+2019-05-30 10:03:33,350 [Worker-20: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.promonlogicalis:helius:1.0.0 @ C:\Users\re91528z\Raspta Tela\helius-master\helius-master\pom.xml.
+2019-05-30 10:03:39,947 [Worker-21: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.promonlogicalis:helius:1.0.0 @ C:\Users\re91528z\Raspta Tela\helius-master\helius-master\pom.xml.
+2019-05-30 10:03:41,166 [Worker-21: Updating Maven Dependencies] ERROR o.e.m.c.i.p.r.ProjectRegistryRefreshJob - null
+java.lang.NullPointerException: null
+	at java.util.zip.ZipFile.getZipEntry(ZipFile.java:567) ~[na:1.8.0_40]
+	at java.util.zip.ZipFile.access$900(ZipFile.java:61) ~[na:1.8.0_40]
+	at java.util.zip.ZipFile$ZipEntryIterator.next(ZipFile.java:525) ~[na:1.8.0_40]
+	at java.util.zip.ZipFile$ZipEntryIterator.nextElement(ZipFile.java:500) ~[na:1.8.0_40]
+	at java.util.zip.ZipFile$ZipEntryIterator.nextElement(ZipFile.java:481) ~[na:1.8.0_40]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getJavaDocPathInArchive(BuildPathManager.java:788) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getJavaDocUrl(BuildPathManager.java:773) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getJavaDocUrl(BuildPathManager.java:766) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.configureAttachedSourcesAndJavadoc(BuildPathManager.java:326) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:269) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:384) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:364) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:392) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.updateClasspath(BuildPathManager.java:205) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.mavenProjectChanged(BuildPathManager.java:194) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:777) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:921) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+2019-05-30 10:05:10,103 [Worker-18: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.promonlogicalis:helius:1.0.0 @ C:\Users\re91528z\Raspta Tela\helius-master\helius-master\pom.xml.
+2019-05-30 10:05:13,455 [Worker-23: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-30 10:05:13,457 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\Raspta Tela\helius-master\helius-master\src\main\resources
+2019-05-30 10:05:13,464 [Worker-23: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-30 10:05:13,465 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\Raspta Tela\helius-master\helius-master\src\test\resources
+2019-05-30 10:06:55,051 [Worker-20: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.promonlogicalis:helius:1.0.0 @ C:\Users\re91528z\Raspta Tela\helius-master\helius-master\pom.xml.
+2019-05-30 10:06:58,088 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-30 10:06:58,091 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\Raspta Tela\helius-master\helius-master\src\main\resources
+2019-05-30 10:06:58,096 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-30 10:06:58,098 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\Raspta Tela\helius-master\helius-master\src\test\resources
+2019-05-30 10:12:22,620 [Worker-19: Launching Executing install in C__Users_re91528z_Raspta Tela_helius-master_helius-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\re91528z\Raspta Tela\helius-master\helius-master
+2019-05-30 10:12:22,621 [Worker-19: Launching Executing install in C__Users_re91528z_Raspta Tela_helius-master_helius-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-05-30 10:12:49,747 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-30 10:12:49,749 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\Raspta Tela\helius-master\helius-master\src\main\resources
+2019-05-30 10:12:49,751 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-30 10:12:49,752 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\Raspta Tela\helius-master\helius-master\src\test\resources
+2019-05-30 10:13:08,152 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-05-30 10:13:14,700 [Worker-28: Launching helius-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\re91528z\Raspta Tela\helius-master\helius-master
+2019-05-30 10:13:14,700 [Worker-28: Launching helius-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2019-05-30 10:14:37,173 [Worker-24: Launching Executing generate-sources in C__Users_re91528z_Raspta Tela_helius-master_helius-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\re91528z\Raspta Tela\helius-master\helius-master
+2019-05-30 10:14:37,174 [Worker-24: Launching Executing generate-sources in C__Users_re91528z_Raspta Tela_helius-master_helius-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2019-05-30 10:44:16,072 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-30 10:44:16,074 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\Raspta Tela\helius-master\helius-master\src\main\resources
+2019-05-30 10:44:16,077 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-30 10:44:16,078 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\Raspta Tela\helius-master\helius-master\src\test\resources
+2019-05-30 10:44:17,997 [Worker-38: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-30 10:44:17,998 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\Raspta Tela\helius-master\helius-master\src\main\resources
+2019-05-30 10:44:18,001 [Worker-38: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-30 10:44:18,002 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\Raspta Tela\helius-master\helius-master\src\test\resources
+2019-05-30 10:45:05,388 [Worker-40: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.promonlogicalis:helius:1.0.0 @ C:\Users\re91528z\Raspta Tela\helius-master\helius-master\pom.xml.
+2019-05-30 10:45:06,514 [Worker-40: Updating Maven Dependencies] ERROR o.e.m.c.i.p.r.ProjectRegistryRefreshJob - null
+java.lang.NullPointerException: null
+2019-05-30 10:45:20,177 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-30 10:45:20,178 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\Raspta Tela\helius-master\helius-master\src\main\resources
+2019-05-30 10:45:20,184 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-30 10:45:20,185 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\Raspta Tela\helius-master\helius-master\src\test\resources
+2019-05-30 14:20:52,689 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-05-30 14:53:27,021 [Worker-20: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.promonlogicalis:helius:1.0.0 @ C:\Users\re91528z\Teste Raspa tela\raspaTela\helius\pom.xml.
+2019-05-30 14:53:33,071 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-30 14:53:33,072 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\Teste Raspa tela\raspaTela\helius\src\main\resources
+2019-05-30 14:53:33,076 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-30 14:53:33,077 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\Teste Raspa tela\raspaTela\helius\src\test\resources
+2019-05-30 14:54:31,154 [Worker-20: Launching Executing generate-sources in C__Users_re91528z_Teste Raspa tela_raspaTela_helius] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\re91528z\Teste Raspa tela\raspaTela\helius
+2019-05-30 14:54:31,155 [Worker-20: Launching Executing generate-sources in C__Users_re91528z_Teste Raspa tela_raspaTela_helius] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2019-05-30 14:54:44,941 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-05-30 14:54:51,257 [Worker-24: Launching helius] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\re91528z\Teste Raspa tela\raspaTela\helius
+2019-05-30 14:54:51,258 [Worker-24: Launching helius] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2019-05-31 14:36:00,284 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-06-03 10:24:37,297 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-06-03 13:09:41,458 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-06-03 13:10:57,093 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.promonlogicalis:helius:1.0.0 @ C:\Users\re91528z\Helius\raspaTela\helius\pom.xml.
+2019-06-03 13:11:00,728 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-03 13:11:00,729 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\main\resources
+2019-06-03 13:11:00,732 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-03 13:11:00,733 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\LN_2\ln-master@bdb5bef07ca\src\test\resources
+2019-06-03 13:11:02,349 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-03 13:11:02,350 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\Helius\raspaTela\helius\src\main\resources
+2019-06-03 13:11:02,353 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-03 13:11:02,354 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\Helius\raspaTela\helius\src\test\resources
+2019-06-03 13:12:42,751 [Worker-10: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.promonlogicalis:helius:1.0.0 @ C:\Users\re91528z\Helius\raspaTela\helius\pom.xml.
+2019-06-03 13:12:44,902 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.promonlogicalis:helius:1.0.0 @ C:\Users\re91528z\Helius\raspaTela\helius\pom.xml.
+2019-06-03 13:12:45,442 [Worker-3: Updating Maven Dependencies] ERROR o.e.m.c.i.p.r.ProjectRegistryRefreshJob - null
+java.lang.NullPointerException: null
+	at java.util.zip.ZipFile.getZipEntry(ZipFile.java:567) ~[na:1.8.0_40]
+	at java.util.zip.ZipFile.access$900(ZipFile.java:61) ~[na:1.8.0_40]
+	at java.util.zip.ZipFile$ZipEntryIterator.next(ZipFile.java:525) ~[na:1.8.0_40]
+	at java.util.zip.ZipFile$ZipEntryIterator.nextElement(ZipFile.java:500) ~[na:1.8.0_40]
+	at java.util.zip.ZipFile$ZipEntryIterator.nextElement(ZipFile.java:481) ~[na:1.8.0_40]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getJavaDocPathInArchive(BuildPathManager.java:788) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getJavaDocUrl(BuildPathManager.java:773) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getJavaDocUrl(BuildPathManager.java:766) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.configureAttachedSourcesAndJavadoc(BuildPathManager.java:326) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:269) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:384) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:364) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:392) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.updateClasspath(BuildPathManager.java:205) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.mavenProjectChanged(BuildPathManager.java:194) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:777) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:921) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+2019-06-03 13:14:50,642 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.promonlogicalis:helius:1.0.0 @ C:\Users\re91528z\Helius\raspaTela\helius\pom.xml.
+2019-06-03 13:14:52,413 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-03 13:14:52,414 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\Helius\raspaTela\helius\src\main\resources
+2019-06-03 13:14:52,416 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-03 13:14:52,417 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\re91528z\Helius\raspaTela\helius\src\test\resources
+2019-06-04 10:22:06,404 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.

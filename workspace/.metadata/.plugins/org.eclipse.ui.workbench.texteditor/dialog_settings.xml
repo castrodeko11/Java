@@ -6,8 +6,13 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="int i"/>
+		<item key="selection" value="INVOICE"/>
 		<list key="findhistory">
+			<item value="invoice"/>
+			<item value="invoicew"/>
+			<item value="gerou"/>
+			<item value="gerou ar"/>
+			<item value="consultar"/>
 			<item value="INT I"/>
 			<item value="i++"/>
 			<item value="INVOICE_NUMBER"/>
@@ -18,17 +23,12 @@
 			<item value=" soAtualizada;"/>
 			<item value="ShipSet"/>
 			<item value="Ship"/>
-			<item value="int i"/>
-			<item value="i++;"/>
-			<item value="i"/>
-			<item value="shipSet"/>
-			<item value="po"/>
 		</list>
 		<list key="replacehistory">
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="1235"/>
+		<item key="DIALOG_X_ORIGIN" value="1324"/>
 		<item key="DIALOG_Y_ORIGIN" value="226"/>
 		<item key="DIALOG_WIDTH" value="284"/>
 		<item key="DIALOG_HEIGHT" value="391"/>
