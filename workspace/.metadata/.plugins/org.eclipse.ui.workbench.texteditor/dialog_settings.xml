@@ -6,8 +6,13 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="INVOICE"/>
+		<item key="selection" value="equals"/>
 		<list key="findhistory">
+			<item value="equals (Ob"/>
+			<item value="equals"/>
+			<item value="hashcode"/>
+			<item value="hash"/>
+			<item value="has"/>
 			<item value="invoice"/>
 			<item value="invoicew"/>
 			<item value="gerou"/>
@@ -18,18 +23,13 @@
 			<item value="INVOICE_NUMBER"/>
 			<item value="if"/>
 			<item value="qua"/>
-			<item value="quanti"/>
-			<item value=" soAtualizada"/>
-			<item value=" soAtualizada;"/>
-			<item value="ShipSet"/>
-			<item value="Ship"/>
 		</list>
 		<list key="replacehistory">
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="1324"/>
-		<item key="DIALOG_Y_ORIGIN" value="226"/>
+		<item key="DIALOG_X_ORIGIN" value="985"/>
+		<item key="DIALOG_Y_ORIGIN" value="207"/>
 		<item key="DIALOG_WIDTH" value="284"/>
 		<item key="DIALOG_HEIGHT" value="391"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
