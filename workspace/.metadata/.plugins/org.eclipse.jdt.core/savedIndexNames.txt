@@ -3,7 +3,6 @@ INDEX VERSION 1.131+C:\Users\re91528z\Java\workspace\.metadata\.plugins\org.ecli
 441660144.index
 2092628935.index
 2262878284.index
-1346528903.index
 1285931288.index
 1716946148.index
 1545554864.index
